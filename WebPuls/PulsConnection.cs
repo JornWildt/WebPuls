@@ -12,6 +12,12 @@ namespace WebPuls
     private static Random Randomizer = new Random();
 
 
+    /// <summary>
+    /// Add blinking circle to output.
+    /// </summary>
+    /// <param name="color">Hex color code for CSS.</param>
+    /// <param name="size">Circle diameter in pixels.</param>
+    /// <param name="lifetime">Lifetime of circle in mili seconds.</param>
     public static void AddBlimp(string color, int size, int lifetime)
     {
       int x = Randomizer.Next(100);
