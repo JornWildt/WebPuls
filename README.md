@@ -10,7 +10,7 @@ WebPuls uses SignalR for distributing event information and the Raphael JavaScri
 
 ## Using WebPuls
 
-1. Compile the project
+1. Compile the project.
 
 2. Setup your webserver to point to the WebPuls.Host folder (.NET 4.5)
 
