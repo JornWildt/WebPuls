@@ -23,6 +23,8 @@ WebPuls uses SignalR for distributing event information and the Raphael JavaScri
 
 6. Call WebPuls.PulsConnection.AddBlimp() to add a new circle.
 
+7. When your project has compiled then copy your *.DLL files to the WebPuls.Host/bin folder.
+
 Thats it. Have fun.
 
 /Jorn Wildt
