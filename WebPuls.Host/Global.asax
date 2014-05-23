@@ -1,1 +1,1 @@
-﻿<%@ Application Inherits="WebPuls.MvcApplication" Language="C#" %>
+﻿<%@ Application Inherits="WebPuls.Global" Language="C#" %>

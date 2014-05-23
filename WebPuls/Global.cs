@@ -7,9 +7,9 @@ using System.Web.Routing;
 
 namespace WebPuls
 {
-  public class MvcApplication : System.Web.HttpApplication
+  public class Global : System.Web.HttpApplication
   {
-    private static ILog Logger = LogManager.GetLogger(typeof(MvcApplication));
+    private static ILog Logger = LogManager.GetLogger(typeof(Global));
 
 
     protected void Application_Start()
